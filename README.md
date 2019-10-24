@@ -9,3 +9,7 @@ A atividade foi feita usando a linguagem Java, através da Eclipse IDE 2019-03.
     String stringDeConexao = "jdbc:postgresql://localhost:5432/empresa";
 		String usuario = "postgres";
 		String senha = "postgres";
+
+3- O driver se chama "postgresql-42.2.8.jar"
+
+4- O arquivo a ser compilado pelo eclipse para dar início a execução do programa é o "MainWindow.java" que se encontra no pacote "ui".

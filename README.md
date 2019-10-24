@@ -1,6 +1,6 @@
 # banco-de-dados-atividade-2
 
-A atividade foi feita usando a linguagem Java, através da Eclipse IDE 2019-03.
+A atividade foi feita usando a linguagem Java, com interface gráfica pelo Swing, através da Eclipse IDE 2019-03.
 
 1 - Para compilar, o projeto deve ser importando no eclipse, e então o driver do PostgreSQL deve ser referenciado no projeto clicando com botão direito no nome, e acessando o caminho Build Path -> Add External Archives, assim o driver deve ser selecionado na pasta em que se encontra e o procedimento deve ser concluído.
 
